@@ -13,7 +13,7 @@ gsap
       trigger: '.container-div',
       markers: true,
       start: 'top bottom',
-      end: 'center top',
+      end: 'bottom top',
       scrub: 1,
     },
   })
